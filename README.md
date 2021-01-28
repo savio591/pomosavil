@@ -6,3 +6,5 @@ Produtividade com a técnica "Pomodoro" escrito em Typescript
 ## Funcionalidades:
 
 * Que o pomotimer, a UI/UX possam ser dinâmicos e customizáveis.
+
+### [Roadmap](./roadmap.md)
