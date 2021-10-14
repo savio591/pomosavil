@@ -1,10 +1,10 @@
 # pomosavil
-Produtividade com a técnica "Pomodoro" escrito em Typescript
+Projeto de SPA c/a técnica "Pomodoro" escrito em Typescript
 
---= Em breve: Que o app funcione nativamente no iOs e Android --=
+## [Roadmap](./roadmap.md)
 
-## Funcionalidades:
+## O que aprendi?
 
-* Que o pomotimer, a UI/UX possam ser dinâmicos e customizáveis.
-
-### [Roadmap](./roadmap.md)
+* Readline nativa do linux
+* Formas de utilizar o readline do Node.js(14.x and above)
+* Um pouco sobre Unicode e Regex
