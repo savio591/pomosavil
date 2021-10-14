@@ -1,14 +1,11 @@
 # Pomosavil Roadmap
 
-- [ ] Criar um temporizador com NodeJS/Typescript:
+- [ ] - Criar um temporizador com Javascript/Node (Outubro 2021)
+- [ ] - É possível registrar e gerar estatísticas com os dados de início, durante e fim do temporizador? (???)
+- [ ] - Quero ver tabelas em cli. (???)
+- [ ] - Criar um protótipo vibe **Savil UI** no [Figma] (???)
+- [ ] - Pomosavil para Web
+- [ ] - Pomosavil para Desktop
+- [ ] - Pomosavil para Mobile(Flutter? React? Melhor o flutter.)
 
-  - [ ] Bom dia! 
-        Qual a duração que desejas?
-        
-  - [ ] Certo. Você quer descansar por quanto tempo?
-  
-  - [ ] Muito bom! Aproveite, bom trabalho ou bons estudos! ;-)
-
- - [ ] Receber as entradas no js principal, mandar os dados para
-       um servico e retorná-los para outro servico que irá cuid-
-       ar do timer e retornar sincronizadamente o tempo.
+[figma]:https://figma.com
